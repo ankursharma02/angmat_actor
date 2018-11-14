@@ -1,0 +1,16 @@
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csprojAssemblyReference.cache
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.deps.json
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.json
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.dev.json
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.pdb
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.pdb
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.pdb
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CopyComplete
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.pdb
